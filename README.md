@@ -32,3 +32,15 @@
 30. Template literals
 31. Higher Order Function
 32. Event Loop in javascript
+
+34. What is box model in css?
+35. Implement bind method polifill
+36. Factorial using promise
+37. Print 1 to 5 with 1 sec difference between them and without the use of let (using closures)
+38. Difference betweeen async and differ in script tag.
+39. Implement sum(1)(2)(3)(5)(8)() such that it returns sum of all numbers.
+40. Closure behaviour in nested scopes
+41. Value of "this" at different places in javascript.
+42. Object creation patterns in javascript
+43. Working of prototypal inheritence in javascript.
+44. Can we delete the property of prototype using it's instance object?
